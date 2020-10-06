@@ -1,4 +1,4 @@
 # Belly-Button-Diversity
 Homework #15
 
-Deployed website can be viewed here: https://colleen547.github.io/biodiversity-dashboard/Belly-Button-Diversity/index.html
+Deployed website can be viewed here: https://github.com/colleen547/biodiversity-dashboard/blob/main/Belly-Button-Diversity/index.html
