@@ -1,8 +1,8 @@
-## Plot.ly Dashboard
+## Plot.ly 
 
-#15: Plotly Interactive Visualizations and Dashboards
+# 15: Plotly Dashboard with Interactive Visualizations
 
-Please access my deployed website via the following link: https://colleen547.github.io/biodiversity-dashboard
+# Please access my deployed website via the following link: https://colleen547.github.io/biodiversity-dashboard
 
 ![1-Logo](Images/Germ_Disease.png)
 
