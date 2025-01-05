@@ -1,6 +1,6 @@
 ## Plot.ly Dashboard
 
-Homework #15: Plotly Interactive-Visualizations-and-Dashboards
+#15: Plotly Interactive Visualizations and Dashboards
 
 Please access my deployed website via the following link: https://colleen547.github.io/biodiversity-dashboard
 
