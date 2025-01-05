@@ -1,10 +1,8 @@
-## Plot.ly 
-
-#15: Plotly Dashboard with Interactive Visualizations
+## #15: Plot.ly Dashboard with Interactive Visualizations
 
 <b> Please access my deployed website via the following link: https://colleen547.github.io/biodiversity-dashboard <b>
 
-![1-Logo](Images/Germ_Disease.png)
+- - -
 
 # Belly Button Biodiversity
 
